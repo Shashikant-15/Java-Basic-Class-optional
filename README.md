@@ -1,4 +1,10 @@
-# Java-Basics-Class-Optional_Assignment1
+# README
+. Clone the repo link:-
+```
+https://github.com/Shashikant-15/Java-Basic-Class-optional.git
+```
+
+## Java-Basics-Class-Optional_Assignment1
 
 ## Assignment 1. create class ClassRoom: roomID(String), studentList(Optional>)
 Create a Class Students
